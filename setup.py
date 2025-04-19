@@ -13,7 +13,7 @@ from setuptools import setup, find_packages
 
 setup(
 	name = "scieco",
-	version = "0.0.0",
+	version = "0.0.1",
 	keywords = ("Geosciences, geospatial, data science"),
 	description = "Ecology",
 	long_description = "Processing academic data and drawing figures for geosciences researchers.",
