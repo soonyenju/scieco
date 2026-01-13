@@ -1,0 +1,74 @@
+ID,Name,Contact,LAT,LON,IGBP
+BE-Bra,Brasschaat,Ivan Janssens| EFDC Staff,51.30761,4.51984,MF
+BE-Dor,Dorinne,Bernard Heinesch,50.311928,4.968011,GRA
+BE-Lcr,Lochristi,Reinhart Ceulemans| Tim De Meulder,51.11218,3.85043,DBF
+BE-Lon,Lonzee,Bernard Heinesch| EFDC Staff,50.5516198,4.7462339,CRO
+BE-Maa,Maasmechelen,Marilyn Roland,50.9801111,5.6318611,CSH
+BE-Vie,Vielsalm,Caroline Vincke,50.304962,5.998099,MF
+CH-Aws,Alp Weissenstein,Nina Buchmann,46.583194,9.790417,GRA
+CH-Cha,Chamau,Nina Buchmann| EFDC Staff,47.21022222,8.410444444,GRA
+CH-Dav,Davos,Nina Buchmann| EFDC Staff,46.81533,9.85591,ENF
+CH-Fru,Früebüel ,Nina Buchmann| EFDC Staff,47.11583333,8.537777778,GRA
+CH-Lae,Laegern,Nina Buchmann,47.478333,8.364389,MF
+CH-Oe2,Oensingen crop,Nina Buchmann,47.286417,7.73375,CRO
+CZ-BK1,Bily Kriz forest,Ladislav Sigut,49.50207615,18.53688247,ENF
+CZ-KrP,Kresin u Pacova,Manuel Acosta,49.573257,15.078773,CRO
+CZ-Lnz,Lanzhot,Natalia Kowalska,48.681611,16.946416,MF
+CZ-RAJ,Rajec,Ladislav Sigut,49.4437236,16.6965125,ENF
+CZ-Stn,Stitna,Ladislav Sigut,49.035975,17.9699,DBF
+CZ-wet,Trebon (CZECHWET),Jiri Dusek,49.02465,14.77035,WET
+DE-Akm,Anklam,Christian Bernhofer,53.86617,13.68342,WET
+DE-Geb,Gebesee,Christian Brümmer,51.09973,10.91463,CRO
+DE-Gri,Grillenburg,Christian Bernhofer,50.95004,13.51259,GRA
+DE-Hai,Hainich,Olaf Kolle| Alexander Knohl,51.079213,10.452168,DBF
+DE-HoH,Hohes Holz,Corinna Rebmann ,52.085306,11.219222,DBF
+DE-Hzd,Hetzdorf,Christian Bernhofer,50.96381,13.48978,DBF
+DE-Kli,Klingenberg,Christian Bernhofer,50.89306,13.52238,CRO
+DE-Obe,Oberbärenburg,Christian Bernhofer,50.78666,13.72129,ENF
+DE-RuR,Rollesbroich,Marius Schmidt,50.6219142,6.3041256,GRA
+DE-RuS,Selhausen Juelich,Marius Schmidt| Alexander Graf,50.86590702,6.447144704,CRO
+DE-RuW,Wustebach,Marius Schmidt,50.50490703,6.33101886,ENF
+DE-Tha,Tharandt,Christian Bernhofer,50.96256,13.56515,ENF
+DK-Gds,Gludsted Plantage,Thomas Friborg,56.0737,9.3341,ENF
+DK-Sor,Soroe,Andreas Ibrom,55.4858694,11.6446444,DBF
+ES-Abr,Albuera,Mirco Migliavacca,38.701839,-6.785881,SAV
+ES-Agu,Aguamarga,Francisco Domingo Poveda,36.940046,-2.033208,OSH
+ES-Cnd,Conde,Sergio Aranda-Barranco,37.914998,-3.227659,EBF
+ES-LJu,Llano de los Juanes,Penelope Serrano,36.926594,-2.752115,OSH
+ES-LM1,Majadas del Tietar North,Mirco Migliavacca,39.94269,-5.778683,SAV
+ES-LM2,Majadas del Tietar South,Mirco Migliavacca,39.934592,-5.775881,SAV
+FI-Hyy,Hyytiala,Timo Vesala| EFDC Staff| Ivan Mammarella,61.84741,24.29477,ENF
+FI-Ken,Kenttarova,Tuomas Laurila| Mika Aurela,67.98723,24.24305,ENF
+FI-Let,Lettosuo,Tuomas Laurila| Annalea Lohila,60.64183,23.95952,ENF
+FI-Qvd,Qvidja,Laura Heimsch,60.295242,22.391607,CRO
+FI-Sii,Siikaneva,Eeva-Stiina Tuittila,61.83265,24.19285,WET
+FI-Var,Varrio,Pasi Kolari,67.7549,29.61,ENF
+FR-Aur,Aurade,Eric Ceschia| Tiphaine Tallec,43.549653,1.106096,CRO
+FR-Bil,Bilos,Denis Loustau,44.493672,-0.956082,ENF
+FR-FBn,Font-Blanche,Guillaume Simioni,43.24079,5.67865,MF
+FR-Fon,Fontainebleau-Barbeau,Eric Dufrêne| EFDC Staff,48.476358,2.780096,DBF
+FR-Gri,Grignon,Pierre Cellier| EFDC Staff| Benjamin Loubet,48.84422,1.95191,CRO
+FR-Hes,Hesse,Matthias Cuntz,48.6741,7.06465,DBF
+FR-Lam,Lamasquere,Aurore Brut,43.49648,1.23785,CRO
+FR-LGt,La Guette,Sebastien Gogo,47.322917,2.284102,WET
+FR-Tou,Toulouse,Jean-Christophe Calvet,43.572855,1.37474,GRA
+GF-Guy,Guyaflux (French Guiana),Damien Bonal,5.278771877,-52.92486191,EBF
+GL-Dsk,Disko,Thomas Friborg,69.2535,-53.514,SNO
+IE-Cra,Clara,Matthew Saunders ,53.3229786,-7.641769886,WET
+IL-Yat,Yatir,Dan Yakir,31.34504459,35.05198851,ENF
+IT-BCi,Borgo Cioffi,Vincenzo Magliulo| EFDC Staff,40.52375,14.95744444,CRO
+IT-BFt,Bosco Fontana,Giacomo Gerosa,45.197835,10.742019,DBF
+IT-Cp2,Castelporziano2,Silvano Fares ,41.70426559,12.35729313,EBF
+IT-Lav,Lavarone,Damiano Gianelle,45.9562,11.28132,ENF
+IT-Lsn,Lison,Andrea Pitacco,45.740481,12.750297,OSH
+IT-MBo,Monte Bondone,Damiano Gianelle,46.014678,11.045831,GRA
+IT-Ren,Renon,Stefano Minerbi| Leonardo Montagnani,46.58686,11.43369,ENF
+IT-SR2,San Rossore 2,Nicola Arriga,43.732022,10.29091,ENF
+IT-Tor,Torgnon,Edoardo Cremonese,45.84444,7.578055,GRA
+RU-Fy2,Fyodorovskoye dry spruce stand,Andrej Varlagin,56.447603,32.901878,ENF
+RU-Fyo,Fyodorovskoye,Andrej Varlagin,56.4615278,32.9220833,ENF
+SE-Deg,Degero,Mats Nilsson,64.182029,19.556539,WET
+SE-Htm,Hyltemossa,Michal Heliasz,56.09763,13.41897,ENF
+SE-Nor,Norunda,Anders Lindroth| Meelis Mölder,60.08649722,17.47950278,ENF
+SE-Ros,Rosinedal-3,Matthias Peichl,64.1725,19.738,ENF
+SE-Svb,Svartberget,Matthias Peichl,64.25611,19.7745,ENF
