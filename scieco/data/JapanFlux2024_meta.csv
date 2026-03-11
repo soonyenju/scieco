@@ -1,0 +1,22 @@
+,SiteName,SiteID,SiteCode,Location,Climate,LandCover,Latitude,Longitude,Elevation_m
+0,Oizumi Urban Park,A20240722-001,JP-Ozm,"Sakai, Osaka, Japan",Cfa : Humid subtropical climate,URB,34.56347,135.533484,22
+1,Bibai bog,A20240722-002,JP-BBY,"Bibai, Hokkaido, Japan",Dfb : Warm-summer humid continental climate,WET,43.32296,141.81079,17
+2,B11 building in Osaka Metropolitan University,A20240722-003,JP-Om1,"Sakai, Osaka, Japan",Cfa : Humid subtropical climate,URB,34.547178,135.502861,27
+3,Farm field in Osaka Metropolitan University,A20240722-004,JP-Om2,"Sakai, Osaka, Japan",Cfa : Humid subtropical climate,GRA,34.542453,135.508228,30
+4,Appi forest meteorology research site,A20241022-001,JP-Api,"Hachimantai, Iwate, Japan",Dfb : Warm-summer humid continental climate,DBF,40.001359,140.936586,831
+5,Fujiyoshida forest meteorology research site,A20241022-002,JP-Fjy,"Fujiyoshida, Yamanashi, Japan",Dfb : Warm-summer humid continental climate,ENF,35.45454,138.76225,1043
+6,Kampong Thom Lowland Dry Evergreen Forest,A20241022-003,KH-Kmp,"Kompong Thom Province, Cambodia",Am : Tropical monsoon climate,EBF,12.74458,105.478566,95
+7,Kawagoe forest meteorology research site,A20241022-004,JP-Kwg,"Kawagoe, Saitama, Japan",Cfa : Humid subtropical climate,DBF,35.8725,139.4869,41
+8,Karuizawa,A20241022-005,JP-Kzw,"Karuizawa, Nagano, Japan",Dfb : Warm-summer humid continental climate,DBF,36.406667,138.5725,1385
+9,Lambir Hills National Park,A20241022-006,MY-LHP,"30 km south of Miri City, Sarawak, Malaysia",Af : Tropical rainforest climate,EBF,4.201007,114.039079,140
+10,Moshiri Birch Forest Site,A20241022-007,JP-MBF,"Moshiri, Hokkaido, Japan",Dfb : Warm-summer humid continental climate,DBF,44.384167,142.318611,596
+11,Moshiri Mixed Forest Site,A20241022-008,JP-MMF,"Moshiri, Hokkaido, Japan",Dfb : Warm-summer humid continental climate,MF,44.321944,142.261389,343
+12,Muramatsu agricultural field,A20241022-009,JP-Mra,"Gosen, Niigata, Japan",Cfa : Humid subtropical climate,CRO,37.690275,139.194429,43
+13,Neleger Burnt Forest,A20241022-010,RU-NeB,"near Yakutsk, Russia",Dfd : Extremely cold subarctic climate,GRA,62.325937,129.487342,221
+14,Neleger Cutover,A20241022-011,RU-NeC,"near Yakutsk, Russia",Dfd : Extremely cold subarctic climate,OSH,62.314844,129.500075,221
+15,Neleger larch forest,A20241022-012,RU-NeF,"near Yakutsk, Russia",Dfd : Extremely cold subarctic climate,DNF,62.315615,129.499964,223
+16,Palangkaraya Drained Burnt forest,A20241022-013,ID-PaB,"Palangkaraya, Central Kalimantan, Indonesia",Am : Tropical monsoon climate,OSH,-2.340796,114.0379,14
+17,Qinghai Flux Research Site,A20241022-014,CN-HaM,"Haibei, Qinghai, China",Bsk : Cold semi-arid climate,GRA,37.607432,101.332,3250
+18,Sakai City Office,A20241022-015,JP-Sac,"Sakai, Osaka, Japan",Cfa : Humid subtropical climate,URB,34.573914,135.482889,17
+19,Sarobetsu Mire Moss,A20241022-016,JP-Sb1,"Sarobetsu, Hokkaido, Japan",Dfb : Warm-summer humid continental climate,WET,45.104722,141.688194,6
+20,Sarobetsu Mire Sasa,A20241022-017,JP-Sb2,"Sarobetsu, Hokkaido, Japan",Dfb : Warm-summer humid continental climate,WET,45.103611,141.680833,4
